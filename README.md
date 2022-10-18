@@ -1,5 +1,9 @@
 # AWS Translate Measurements
 
+## Some oddity
+
+AWS's batch jobs are asynchronous and therefore not feasible to use with xAFCL but only Stepfunctions
+
 ```-k 10 -b_name translation-source-nv-gritsch19113 -s_folder translation_source -t_folder result -s_lang de -t_lang en -s_region us-east-1```
 
 | k    | Download time            | Upload Time           | Translation Time      | RTT   |
