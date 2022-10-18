@@ -1,0 +1,48 @@
+-k 10 -b_name translation-source-nv-gritsch19113 -s_folder translation_source -t_folder result -s_lang de -t_lang en -s_region us-east-1 
+{"statusCode":200,"download_time":0.14887213706970215,"translation_time":0.3234274387359619,"upload_time":0.15559124946594238}, rtt:1577
+{"statusCode":200,"download_time":0.08359956741333008,"translation_time":0.08112955093383789,"upload_time":0.03636360168457031}, rtt:765
+{"statusCode":200,"download_time":0.08830380439758301,"translation_time":0.10452628135681152,"upload_time":0.041817426681518555}, rtt:781
+{"statusCode":200,"download_time":0.07599902153015137,"translation_time":0.08674335479736328,"upload_time":0.0862267017364502}, rtt:791
+{"statusCode":200,"download_time":0.09552717208862305,"translation_time":0.08283591270446777,"upload_time":0.03700709342956543}, rtt:766
+{"statusCode":200,"download_time":0.11575555801391602,"translation_time":0.038886308670043945,"upload_time":0.03624606132507324}, rtt:723
+{"statusCode":200,"download_time":0.0958869457244873,"translation_time":0.10384988784790039,"upload_time":0.03359866142272949}, rtt:741
+{"statusCode":200,"download_time":0.10646867752075195,"translation_time":0.08519363403320312,"upload_time":0.07265949249267578}, rtt:825
+{"statusCode":200,"download_time":0.10880112648010254,"translation_time":0.12354326248168945,"upload_time":0.03558707237243652}, rtt:778
+{"statusCode":200,"download_time":0.09215092658996582,"translation_time":0.04385972023010254,"upload_time":0.05146217346191406}, rtt:706
+
+
+-k 10 -b_name translation-source-nv-gritsch19113 -s_folder translation_source -t_folder result -s_lang de -t_lang en -s_region us-west-2
+{"statusCode":200,"download_time":0.17020225524902344,"translation_time":0.8450102806091309,"upload_time":0.0637216567993164}, rtt:2109
+{"statusCode":200,"download_time":0.21049976348876953,"translation_time":0.5236771106719971,"upload_time":0.06476163864135742}, rtt:1359
+{"statusCode":200,"download_time":0.1186213493347168,"translation_time":0.34828877449035645,"upload_time":0.06882429122924805}, rtt:1049
+{"statusCode":200,"download_time":0.11013913154602051,"translation_time":0.30710649490356445,"upload_time":0.043898582458496094}, rtt:992
+{"statusCode":200,"download_time":0.1450181007385254,"translation_time":0.3413870334625244,"upload_time":0.0560765266418457}, rtt:1065
+{"statusCode":200,"download_time":0.167649507522583,"translation_time":0.3536403179168701,"upload_time":0.06643414497375488}, rtt:1106
+{"statusCode":200,"download_time":0.12544965744018555,"translation_time":0.3251478672027588,"upload_time":0.09210538864135742}, rtt:1038
+{"statusCode":200,"download_time":0.2057182788848877,"translation_time":0.3510918617248535,"upload_time":0.060741424560546875}, rtt:1114
+{"statusCode":200,"download_time":0.25522589683532715,"translation_time":0.720353364944458,"upload_time":0.08963561058044434}, rtt:1578
+{"statusCode":200,"download_time":0.22077584266662598,"translation_time":0.3485758304595947,"upload_time":0.051181793212890625}, rtt:1142
+
+-k 10 -b_name translation-source-oregon-gritsch1831 -s_folder translation_source -t_folder result -s_lang de -t_lang en -s_region us-west-2 
+{"statusCode":200,"download_time":0.6484105587005615,"translation_time":0.3285512924194336,"upload_time":0.2082047462463379}, rtt:2135
+{"statusCode":200,"download_time":0.26142430305480957,"translation_time":0.33893656730651855,"upload_time":0.16190242767333984}, rtt:1309
+{"statusCode":200,"download_time":0.26370954513549805,"translation_time":0.34442806243896484,"upload_time":0.16384100914001465}, rtt:1287
+{"statusCode":200,"download_time":0.2686154842376709,"translation_time":0.32625770568847656,"upload_time":0.17990493774414062}, rtt:1316
+{"statusCode":200,"download_time":0.2607085704803467,"translation_time":0.3006160259246826,"upload_time":0.15728116035461426}, rtt:1262
+{"statusCode":200,"download_time":0.2654261589050293,"translation_time":0.36171936988830566,"upload_time":0.15829181671142578}, rtt:1297
+{"statusCode":200,"download_time":0.2608511447906494,"translation_time":0.3173973560333252,"upload_time":0.16595673561096191}, rtt:1229
+{"statusCode":200,"download_time":0.26241326332092285,"translation_time":0.33359193801879883,"upload_time":0.18436288833618164}, rtt:1278
+{"statusCode":200,"download_time":0.28004932403564453,"translation_time":0.3321242332458496,"upload_time":0.16540122032165527}, rtt:1274
+{"statusCode":200,"download_time":0.26042628288269043,"translation_time":0.28274989128112793,"upload_time":0.19461798667907715}, rtt:1266
+
+-k 10 -b_name translation-source-oregon-gritsch1831 -s_folder translation_source -t_folder result -s_lang de -t_lang en -s_region us-east-1
+{"statusCode":200,"download_time":0.569765567779541,"translation_time":0.0977942943572998,"upload_time":0.1591947078704834}, rtt:1772
+{"statusCode":200,"download_time":0.26903486251831055,"translation_time":0.08153200149536133,"upload_time":0.15679645538330078}, rtt:1060
+{"statusCode":200,"download_time":0.29001307487487793,"translation_time":0.08350849151611328,"upload_time":0.16154265403747559}, rtt:1097
+{"statusCode":200,"download_time":0.2660965919494629,"translation_time":0.08165240287780762,"upload_time":0.1599867343902588}, rtt:1073
+{"statusCode":200,"download_time":0.2993130683898926,"translation_time":0.07212638854980469,"upload_time":0.16434526443481445}, rtt:1074
+{"statusCode":200,"download_time":0.2685112953186035,"translation_time":0.07550621032714844,"upload_time":0.15645670890808105}, rtt:1038
+{"statusCode":200,"download_time":0.2724943161010742,"translation_time":0.0417332649230957,"upload_time":0.15880894660949707}, rtt:1000
+{"statusCode":200,"download_time":0.25832223892211914,"translation_time":0.06637454032897949,"upload_time":0.16126585006713867}, rtt:1012
+{"statusCode":200,"download_time":0.2550692558288574,"translation_time":0.08648800849914551,"upload_time":0.1647777557373047}, rtt:1009
+{"statusCode":200,"download_time":0.2646646499633789,"translation_time":0.08120012283325195,"upload_time":0.16454267501831055}, rtt:1027
